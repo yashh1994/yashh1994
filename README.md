@@ -49,30 +49,44 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashh1994&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashh1994&theme=radical" alt="Profile Summary" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashh1994&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashh1994&theme=tokyonight" width="98%" alt="Profile Summary" />
+
+  <!-- GitHub Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashh1994&theme=tokyo-night&hide_border=true&area=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
+
 </div>
 
 ---
 
-## ✨ My Projects  
+## 🏆 GitHub Trophies
 
-### 🌟 Featured Projects  
 
-- [CropYard](https://github.com/yashh1994/cropyard) - A platform to help farmers sell crops online.  
-  ![CropYard](https://github-readme-stats.vercel.app/api/pin/?username=yashh1994&repo=cropyard&theme=radical)
-
-- [ZK-KYC](https://github.com/yashh1994/zk-kyc) - Decentralized identity verification using Zero-Knowledge Proofs.  
-  ![ZK-KYC](https://github-readme-stats.vercel.app/api/pin/?username=yashh1994&repo=zk-kyc&theme=radical)
-
-- [AI Trading Bot](https://github.com/yashh1994/ai-trading-bot) - Algorithmic trading bot using deep learning models.  
-  ![AI Trading Bot](https://github-readme-stats.vercel.app/api/pin/?username=yashh1994&repo=ai-trading-bot&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashh1994&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
 
 ---
+
+## 📈 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/_mYash1994?theme=dark&font=Noto%20Sans%20Sinhala&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+
+---
+
 
 ## 📫 Connect with Me  
 
