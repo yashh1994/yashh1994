@@ -17,12 +17,10 @@
 - ⚡ Fun fact: **I can DO this ALL DAY! 😆**  
 
 ---
-
-## 🛠️ My Tech Stack  
-
-🚀 **Passionate about building scalable applications and exploring new technologies!**  
+Passionate about building scalable applications and exploring new technologies!
 
 ---
+## 🛠️ My Tech Stack  
 
 ### 🌟 Main Skills  
 #### 🚀 Programming Languages  
@@ -104,7 +102,6 @@
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </div>
-
 
 ---
 💡 *Exploring the intersection of AI, Web3, and Open Source. Let's build something amazing!* 🚀  
