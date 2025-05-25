@@ -79,7 +79,7 @@ Passionate about building scalable applications and exploring new technologies!
 ## 📈 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/_mYash1994?theme=dark&font=Noto%20Sans%20Sinhala&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/_mYash1994?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
 </div>
 
 
