@@ -51,12 +51,10 @@ Passionate about building scalable applications and exploring new technologies!
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yashh1994&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashh1994&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
   <!-- GitHub Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashh1994&theme=tokyonight" width="98%" alt="Profile Summary" />
 
