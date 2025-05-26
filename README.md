@@ -54,7 +54,8 @@ Passionate about building scalable applications and exploring new technologies!
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yashh1994&theme=monokai-metallian&hide_border=true&short_numbers=true" width="50%"/>
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&custom_title=YASHKUMAR%20FADADU%27s%20GitHub%20Stats" width="48%" />
+
   <!-- GitHub Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashh1994&theme=tokyonight" width="98%" alt="Profile Summary" />
 
