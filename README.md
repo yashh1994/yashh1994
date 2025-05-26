@@ -51,7 +51,7 @@ Passionate about building scalable applications and exploring new technologies!
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yashh1994&theme=monokai-metallian&hide_border=true&short_numbers=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yashh1994&theme=monokai-metallian&hide_border=true&short_numbers=true" width="50%"/>
 
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
