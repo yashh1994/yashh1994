@@ -1,5 +1,41 @@
-# Hi there, I'm YASH FADADU 👋
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yashh1994&theme=monokai-metallian&hide_border=true&short_numbers=true" width="50%"/>
+
+  <!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&custom_title=YASHKUMAR%20FADADU%27s%20GitHub%20Stats" width="48%" />
+
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashh1994&theme=tokyonight" width="98%" alt="Profile Summary" />
+
+  <!-- GitHub Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashh1994&theme=tokyo-night&hide_border=true&area=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashh1994&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/_mYash1994?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+# Hi there, I'm YASH FADADU 👋
+---
 <div align="center">
   <img src="Banner image.png" width="100%" height="auto" />
 </div>
@@ -44,43 +80,6 @@ Passionate about building scalable applications and exploring new technologies!
 ---
 
 💡 *Always learning and evolving!* 🚀
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yashh1994&theme=monokai-metallian&hide_border=true&short_numbers=true" width="50%"/>
-
-  <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=yashh1994&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&custom_title=YASHKUMAR%20FADADU%27s%20GitHub%20Stats" width="48%" />
-
-  <!-- GitHub Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashh1994&theme=tokyonight" width="98%" alt="Profile Summary" />
-
-  <!-- GitHub Contributions Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashh1994&theme=tokyo-night&hide_border=true&area=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashh1994&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/_mYash1994?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
-</div>
-
 
 ---
 
