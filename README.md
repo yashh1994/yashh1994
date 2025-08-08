@@ -30,7 +30,7 @@
 ## 📈 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/_mYash1994?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/yashfadadu?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
